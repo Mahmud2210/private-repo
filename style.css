@@ -2,6 +2,11 @@
 .discover img{width: 75%;
 border: none;}
 .company img{width: 75%;}
-.icon img{width: 5%;}
+.icon-white{ 
+    color:white;}
+    .icon img{width: 5%;}
 .discover-t{width: 100%;}
-footer{width:100%;}
+footer{width:100%;
+background-color: black;}
+.icon img:hover{background-color: aquamarine;
+-ms-zoom-animation: 12px;}
